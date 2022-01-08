@@ -1,5 +1,5 @@
 Objectives:
-- Use PySpark to extract, organize, analyze, and visualize data on big data platform, to review product popularity, customer satisfaction and review authenticity on Amazon.com from 1995 to 2016
+- Use PySpark to extract, organize, analyze, and visualize data on big data platforms, to review product popularity, customer satisfaction and review authenticity on Amazon.com from 1995 to 2016
 - Pinpoint customer ID with suspicious review activities
 - Perform time-based analysis to discover relationship among review volume, star rating and verified purchase ratio
 - Build machine learning models for star rating prediction and sentiment analysis (with SparkNLP)
