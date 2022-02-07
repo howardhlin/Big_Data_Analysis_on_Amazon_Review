@@ -1,3 +1,7 @@
+# Big_Data_Solution_for_Amazon_Review
+
+Contributor: Howard Lin, Yifan Gao, Ruoyun Zhang
+
 Objectives:
 - Create big data solution for datasets larger than 50 Gigabytes.
 - Review product popularity, customer satisfaction and review authenticity on Amazon.com by using PySpark to extract, organize, analyze, and visualize data
